@@ -84,7 +84,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.5.0",
     "immer": "^7.0.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "material-ui-dropzone": "^3.2.1",
     "moment": "^2.27.0",
     "portable-fetch": "^3.0.0",
